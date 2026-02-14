@@ -1,4 +1,4 @@
-# JanSathi AI - Design Document
+# Vyasa AI - Design Document
 
 ## 1. System Architecture
 
@@ -252,3 +252,4 @@ Steps: Identify failure → Switch to backup region → Restore DB → Verify �
 ---
 
 **Version**: 1.0 | **Date**: February 14, 2026
+
