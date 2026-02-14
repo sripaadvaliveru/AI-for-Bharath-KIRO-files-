@@ -1,9 +1,9 @@
-# JanSathi AI - Requirements Document
+# Vyasa AI - Requirements Document
 
 ## 1. Project Overview
 
 ### 1.1 Vision
-JanSathi AI is a voice-first, multilingual AI assistant designed to bridge the digital divide in India by providing underserved communities with accessible information about government schemes, welfare benefits, job opportunities, and health services.
+Vyasa AI is a voice-first, multilingual AI assistant designed to bridge the digital divide in India by providing underserved communities with accessible information about government schemes, welfare benefits, job opportunities, and health services.
 
 ### 1.2 Target Users
 - Rural farmers and agricultural workers
@@ -313,3 +313,4 @@ JanSathi AI is a voice-first, multilingual AI assistant designed to bridge the d
 - Documentation complete
 - Training materials prepared
 - Support system in place
+
